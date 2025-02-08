@@ -1,4 +1,4 @@
-https://smartdiseasepredictionsystem.streamlit.app/
+https://disease-prediction-system-ensemble.streamlit.app/
 
 
 ![image](https://github.com/SrivathsanP23/EnsembleMethod_SmartDiseasePredictionSystem/assets/156175839/a0f624c0-b99a-493c-8975-7622d2e3a60c)
